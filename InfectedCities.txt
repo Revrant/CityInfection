@@ -1,0 +1,5 @@
+Lawrence,85483,3
+Kansas City,1500000,2
+Smallville,23,0
+Chicago,350000,1
+Nashville,400000,0
